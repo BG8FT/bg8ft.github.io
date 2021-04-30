@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages 欢迎访问
 
 You can use the [editor on GitHub](https://github.com/BG8FT/bg8ft.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
